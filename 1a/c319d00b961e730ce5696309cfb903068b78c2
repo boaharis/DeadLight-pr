@@ -1,7 +1,9 @@
 client/main.ts
   s_6e7f0daec075c6::t_01078e1067695a 42,814
+  s_6e7f0daec075c6::t_1a74c612b0ee48 42,814
 client/net.ts
   s_6e7f0daec075c6::t_01078e1067695a 10-20
+  s_6e7f0daec075c6::t_1a74c612b0ee48 10-20
 ---
 {
   "schema_version": "authorship/3.0.0",
