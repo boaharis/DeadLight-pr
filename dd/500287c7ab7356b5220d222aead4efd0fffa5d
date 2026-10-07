@@ -1,0 +1,28 @@
+server/match.test.ts
+  s_6e7f0daec075c6::t_a5bec5c89e9347 3,250-262
+  s_6e7f0daec075c6::t_348e3b924ab183 263-264
+server/match.ts
+  s_6e7f0daec075c6::t_a5bec5c89e9347 23,86-87,295-299,324-331
+  s_6e7f0daec075c6::t_1b86fc4a22f15c 332-333
+client/main.ts
+  s_6e7f0daec075c6::t_777ed69edded1c 411-413,596-604
+  s_6e7f0daec075c6::t_9a4a5e5f1c190b 605-606
+docs/LESSONS_LEARNED.md
+  s_6e7f0daec075c6::t_3b28c2074538e2 88-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dd500287c7ab7356b5220d222aead4efd0fffa5d",
+  "prompts": {},
+  "sessions": {
+    "s_6e7f0daec075c6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0715a300-ec67-4cdc-bb71-aeb097595cbb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Haris Muranovic <harismuranovic03@gmail.com>"
+    }
+  }
+}
